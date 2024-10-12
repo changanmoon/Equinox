@@ -218,7 +218,7 @@
 "wallpaper.create.new" = "新增";
 
 /* (No Comment) */
-"wallpaper.create.new.description" = "你要製作新的種類的背景圖片，還是重複當前的背景圖片？";
+"wallpaper.create.new.description" = "要製作新的種類的背景圖片，還是重複當前的背景圖片？";
 
 /* (No Comment) */
 "wallpaper.create.new.title" = "製作新的背景圖片？";
