@@ -152,7 +152,7 @@
 "tip.appearance.title" = "外觀背景圖片";
 
 /* (No Comment) */
-"tip.calculator.description" = "它會輔助你計算太陽在天空當中的位置。\n1. 拍攝時，在太陽時間軸上選擇地點、日期與時間。如你不知道確切時間，你可以使用太陽時間軸來檢視太陽在天空當中的位置高低，並令它符合你的相片。\n2. 拖放或者複製結果至你的影像上。";
+"tip.calculator.description" = "它會輔助你計算太陽在天空當中的位置。\n1. 拍攝時，在太陽時間軸上選擇地點、日期與時間。如你不知道確切的時間，你可以使用太陽時間軸來檢視太陽在天空當中的位置高低，並令它符合你的相片。\n2. 拖放或者複製結果至你的影像上。";
 
 /* (No Comment) */
 "tip.calculator.title" = "太陽計算機";
@@ -161,7 +161,7 @@
 "tip.ok" = "明白";
 
 /* (No Comment) */
-"tip.solar.description" = "這種背景圖片的主要特點是考慮了太陽的位置。根據一年中的不同時間，你會在桌面上看到最相關的影像。\n無需擔心計算問題，在「太陽計算機」的輔助之下，你僅需要知道相片拍攝的地點與時間。";
+"tip.solar.description" = "這種背景圖片的主要特點是考慮了太陽的位置。根據一年中的不同時間，你會在桌面上看到最相關的影像。\n無需擔心計算問題，在「太陽計算機」的輔助之下，你只需要知道相片拍攝的地點與時間。";
 
 /* (No Comment) */
 "tip.solar.title" = "太陽背景圖片";
@@ -248,7 +248,7 @@
 "wallpaper.create.success" = "成功";
 
 /* (No Comment) */
-"wallpaper.create.success.description" = "拖放你的背景圖片到你想要的任何地方";
+"wallpaper.create.success.description" = "拖放你的背景圖片至你想要的任何地方";
 
 /* (No Comment) */
 "wallpaper.create.time.based" = "根據時間";
@@ -284,7 +284,7 @@
 "wallpaper.gallery.time" = "時間：";
 
 /* (No Comment) */
-"wallpaper.gallery.tooltip.appearance.description" = "圖形模式。僅有一張影像可以為淺色或者深色外觀。";
+"wallpaper.gallery.tooltip.appearance.description" = "圖形模式。只有一張影像可以做為淺色或者深色外觀。";
 
 /* (No Comment) */
 "wallpaper.gallery.tooltip.appearance.title" = "外觀";
@@ -329,7 +329,7 @@
 "wallpaper.set.description.title.old" = "在設定背景圖片之前，你需要在 macOS 偏好設定的「桌面與螢幕保護程式」中設定種類為「動態」。";
 
 /* (No Comment) */
-"wallpaper.set.skip" = "不要再顯示此訊息";
+"wallpaper.set.skip" = "不要再顯示這個訊息";
 
 /* (No Comment) */
 "wallpaper.set.title" = "設定前設置";
