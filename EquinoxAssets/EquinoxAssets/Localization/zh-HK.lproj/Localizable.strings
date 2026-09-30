@@ -41,19 +41,16 @@
 "menu.help.githubFAQ" = "常見問題（FAQ）";
 
 /* (No Comment) */
-"menu.help.githubIssue" = "報告問題";
+"menu.help.githubIssue" = "回報問題";
 
 /* (No Comment) */
 "menu.help.githubProject" = "GitHub 項目";
 
 /* (No Comment) */
-"menu.help.macAppStoreReview" = "在 Mac App Store 上為 Equinox 評分";
+"menu.help.macAppStoreReview" = "在 Mac App Store 上對 Equinox 評分";
 
 /* (No Comment) */
 "menu.help.productHunt" = "Product Hunt 上的 Equinox";
-
-/* (No Comment) */
-"toolbar.more" = "更多";
 
 /* (No Comment) */
 "menu.main.about" = "關於 %@";
@@ -89,7 +86,7 @@
 "solar.main.abbreviation.tooltip.description" = "格林威治標準時間 (GMT) 與特定地點的當地時間之差，以小時與分鐘表示";
 
 /* (No Comment) */
-"solar.main.abbreviation.tooltip.title" = "GMT 偏移量";
+"solar.main.abbreviation.tooltip.title" = "GMT 位移";
 
 /* (No Comment) */
 "solar.main.altitude" = "海拔：";
@@ -116,7 +113,7 @@
 "solar.main.dst.title" = "夏令時間 (DST)";
 
 /* (No Comment) */
-"solar.main.dst.tooltip.description" = "時鐘於春天向前走一小時，於秋天向後走一小時";
+"solar.main.dst.tooltip.description" = "時鐘於春季往前一小時，於秋季往後一小時";
 
 /* (No Comment) */
 "solar.main.dst.tooltip.title" = "夏令時間";
@@ -125,7 +122,7 @@
 "solar.main.latitude" = "緯度：";
 
 /* (No Comment) */
-"solar.main.location.error" = "哎呀！獲取你的位置發生問題。請再試";
+"solar.main.location.error" = "哎呀！取得你的位置時發生問題。請再試。";
 
 /* (No Comment) */
 "solar.main.location.header" = "位置";
@@ -149,13 +146,76 @@
 "solar.main.value" = "值";
 
 /* (No Comment) */
-"tip.appearance.description" = "這種背景圖片就是這麼簡單。桌面背景圖片會全日依據系統外觀而改變。你需要兩個影像：一個用作淺色模式，一個用作深色模式。";
+"support.localProduct.title" = "贊助";
+
+/* (No Comment) */
+"support.noProducts.description.first" = "無法載入贊助支持選項。";
+
+/* (No Comment) */
+"support.noProducts.description.second" = "請檢查網絡連線，或稍後再試。";
+
+/* (No Comment) */
+"support.noProducts.description.third" = "多謝你支持 Equinox。";
+
+/* (No Comment) */
+"support.noProducts.title" = "發生錯誤";
+
+/* (No Comment) */
+"support.purchaseFailure.description.first" = "購買已取消。";
+
+/* (No Comment) */
+"support.purchaseFailure.description.second" = "如你願意，隨時都可以支持 Equinox。";
+
+/* (No Comment) */
+"support.purchaseFailure.description.third" = "多謝你使用此應用程式！";
+
+/* (No Comment) */
+"support.purchaseFailure.title" = "毋需擔心";
+
+/* (No Comment) */
+"support.purchaseSuccess.description.first" = "你的支持非常重要。Equinox 是我維護超過 5 年的開放原始碼項目。";
+
+/* (No Comment) */
+"support.purchaseSuccess.description.second" = "這類贊助有助令應用程式持續發展：修正錯誤、改進體驗，並推出新的更新。";
+
+/* (No Comment) */
+"support.purchaseSuccess.description.third" = "此次購買不會解鎖任何功能，只是用來支持開發。";
+
+/* (No Comment) */
+"support.shared.close" = "關閉";
+
+/* (No Comment) */
+"support.shared.description.openSource" = "Equinox 是我維護超過 5 年的開放原始碼項目。";
+
+/* (No Comment) */
+"support.shared.title.thankYou" = "多謝你的支持！";
+
+/* (No Comment) */
+"support.supported.description.first" = "你已支持過 Equinox。多謝你！";
+
+/* (No Comment) */
+"support.supported.description.third" = "如你想再次支持此項目，隨時都可以再贊助一次。";
+
+/* (No Comment) */
+"support.title" = "支持 Equinox";
+
+/* (No Comment) */
+"support.unsupported.description.second" = "如你喜歡使用它，可以用一筆贊助支持它的未來發展。";
+
+/* (No Comment) */
+"support.unsupported.description.third" = "贊助不會解鎖任何功能——只用來支持開發。";
+
+/* (No Comment) */
+"support.unsupported.title" = "喜歡 Equinox 嗎？";
+
+/* (No Comment) */
+"tip.appearance.description" = "這種背景圖片再簡單不過了。桌面背景圖片會全日根據系統外觀而改變。你需要兩個影像：一個用作淺色模式，一個用作深色模式。";
 
 /* (No Comment) */
 "tip.appearance.title" = "外觀背景圖片";
 
 /* (No Comment) */
-"tip.calculator.description" = "它會輔助你計算太陽在天空中的位置。\n1. 拍攝時，在太陽時間軸上選擇地點、日期與時間。如你不知道確切的時間，你可以使用太陽時間軸檢視太陽在天空當中的位置高低，並令它配合你的相片。\n2. 拖放或複製結果至你的影像上。";
+"tip.calculator.description" = "它會輔助你計算太陽在天空中的位置。\n1. 拍攝時，在太陽時間軸上選擇地點、日期與時間。如你不知道確切的時間，你可以使用「太陽時間軸」檢視太陽在天空當中的位置高低，並令它配合你的相片。\n2. 拖放或複製結果至你的影像上。";
 
 /* (No Comment) */
 "tip.calculator.title" = "太陽計算機";
@@ -164,16 +224,16 @@
 "tip.ok" = "明白";
 
 /* (No Comment) */
-"tip.solar.description" = "這種背景圖片的主要特點是考慮了太陽的位置。根據一年中不同的時間，你會在桌面上看到最相關的影像。\n無需擔心計算問題，在「太陽計算機」的輔助之下，你只需要知道相片拍攝的地點與時間。";
+"tip.solar.description" = "這種背景圖片的主要特點是考慮了太陽的位置。根據一年中不同的時間，你會在桌面上看到最相關的影像。\n毋需擔心計算問題，在「太陽計算機」的輔助下，你只需要知道相片拍攝的地點與時間。";
 
 /* (No Comment) */
 "tip.solar.title" = "太陽背景圖片";
 
 /* (No Comment) */
-"tip.started" = "入門";
+"tip.started" = "開始使用";
 
 /* (No Comment) */
-"tip.time.description" = "時間是這種背景圖片的關鍵。桌面背景圖片會全日依據你選擇的時間而改變。";
+"tip.time.description" = "時間是這種背景圖片的關鍵。桌面背景圖片會全日根據你選擇的時間而改變。";
 
 /* (No Comment) */
 "tip.time.title" = "時間背景圖片";
@@ -182,25 +242,55 @@
 "tip.tips" = "貼士";
 
 /* (No Comment) */
+"toolbar.calculator.label" = "計算機";
+
+/* (No Comment) */
+"toolbar.calculator.palette" = "太陽計算機";
+
+/* (No Comment) */
+"toolbar.calculator.tooltip" = "太陽計算機";
+
+/* (No Comment) */
+"toolbar.help.label" = "輔助說明";
+
+/* (No Comment) */
+"toolbar.help.palette" = "輔助說明";
+
+/* (No Comment) */
+"toolbar.help.tooltip" = "輔助說明";
+
+/* (No Comment) */
+"toolbar.more" = "更多";
+
+/* (No Comment) */
+"toolbar.new.label" = "新增";
+
+/* (No Comment) */
+"toolbar.new.palette" = "新增";
+
+/* (No Comment) */
+"toolbar.new.tooltip" = "新增背景圖片";
+
+/* (No Comment) */
 "wallpaper.appearance.auto.description" = "預設背景圖片影像";
 
 /* (No Comment) */
 "wallpaper.appearance.auto.title" = "自動";
 
 /* (No Comment) */
-"wallpaper.appearance.dark.description" = "在靜態深色模式顯示背景圖片";
+"wallpaper.appearance.dark.description" = "在深色模式顯示靜態背景圖片";
 
 /* (No Comment) */
 "wallpaper.appearance.dark.title" = "深色 (靜止)";
 
 /* (No Comment) */
-"wallpaper.appearance.light.description" = "在靜態淺色模式顯示背景圖片";
+"wallpaper.appearance.light.description" = "在淺色模式顯示靜態背景圖片";
 
 /* (No Comment) */
 "wallpaper.appearance.light.title" = "淺色 (靜止)";
 
 /* (No Comment) */
-"wallpaper.create.appearance.based" = "依據外觀";
+"wallpaper.create.appearance.based" = "根據外觀";
 
 /* (No Comment) */
 "wallpaper.create.cancel" = "取消";
@@ -212,10 +302,10 @@
 "wallpaper.create.failure" = "失敗";
 
 /* (No Comment) */
-"wallpaper.create.failure.description" = "哎呀！發生錯誤";
+"wallpaper.create.failure.description" = "哎呀！發生了錯誤。";
 
 /* (No Comment) */
-"wallpaper.create.file.saved" = "背景圖片已經儲存";
+"wallpaper.create.file.saved" = "已儲存背景圖片";
 
 /* (No Comment) */
 "wallpaper.create.new" = "新增";
@@ -236,7 +326,7 @@
 "wallpaper.create.set" = "設定";
 
 /* (No Comment) */
-"wallpaper.create.set.error" = "無法儲存背景圖片。";
+"wallpaper.create.set.error" = "無法設定背景圖片。";
 
 /* (No Comment) */
 "wallpaper.create.set.success" = "你已成功設定背景圖片。";
@@ -245,7 +335,7 @@
 "wallpaper.create.share" = "分享";
 
 /* (No Comment) */
-"wallpaper.create.solar.based" = "依據太陽";
+"wallpaper.create.solar.based" = "根據太陽";
 
 /* (No Comment) */
 "wallpaper.create.success" = "成功";
@@ -254,7 +344,7 @@
 "wallpaper.create.success.description" = "拖放或儲存你的背景圖片至你想要的任何地方";
 
 /* (No Comment) */
-"wallpaper.create.time.based" = "依據時間";
+"wallpaper.create.time.based" = "根據時間";
 
 /* (No Comment) */
 "wallpaper.create.title" = "製作";
@@ -275,7 +365,7 @@
 "wallpaper.gallery.browse" = "瀏覽";
 
 /* (No Comment) */
-"wallpaper.gallery.drag.supplementary" = "檔案應該為 PNG、JPEG、TIFF 或 HEIF。";
+"wallpaper.gallery.drag.supplementary" = "檔案應該為 PNG、JPEG、TIFF 或 HEIC。";
 
 /* (No Comment) */
 "wallpaper.gallery.drag.title" = "拖放你的影像";
@@ -287,7 +377,7 @@
 "wallpaper.gallery.time" = "時間：";
 
 /* (No Comment) */
-"wallpaper.gallery.tooltip.appearance.description" = "圖形模式。只有一張影像可以做為淺色或深色外觀。";
+"wallpaper.gallery.tooltip.appearance.description" = "圖形模式。只有一張影像可以設定為淺色或深色外觀。";
 
 /* (No Comment) */
 "wallpaper.gallery.tooltip.appearance.title" = "外觀";
@@ -299,7 +389,7 @@
 "wallpaper.gallery.tooltip.primary.title" = "主要";
 
 /* (No Comment) */
-"wallpaper.gallery.wrong.images.type" = "一些檔案 (%d) 的影像類型錯誤。只支援 PNG、JPEG、TIFF 和 HEIC";
+"wallpaper.gallery.wrong.images.type" = "一些檔案 (%d) 的影像類型錯誤。只支援 PNG、JPEG、TIFF 與 HEIC。";
 
 /* (No Comment) */
 "wallpaper.main.appearance" = "外觀";
@@ -332,13 +422,13 @@
 "wallpaper.set.description.title.old" = "在設定背景圖片之前，你需要在 macOS 偏好設定的「桌面與螢幕保護程式」中設定種類為「動態」。";
 
 /* (No Comment) */
-"wallpaper.set.skip" = "不再顯示此訊息";
+"wallpaper.set.skip" = "不要再顯示此訊息";
 
 /* (No Comment) */
-"wallpaper.set.title" = "在應用之前設定";
+"wallpaper.set.title" = "在設定背景圖片之前";
 
 /* (No Comment) */
-"wallpaper.set.todo" = "1. 開啟 macOS 偏好設定「背景圖片」。\n2. 選擇任一「動態桌面」背景圖片，設定其種類為「動態」。\n3. 按一下「繼續」。";
+"wallpaper.set.todo" = "1. 開啟 macOS 偏好設定「背景圖片」。\n2. 選擇任一「動態桌面」背景圖片，將其種類設定為「動態」。\n3. 按一下「繼續」。";
 
 /* (No Comment) */
 "wallpaper.set.todo.link" = "「背景圖片」";
@@ -347,13 +437,22 @@
 "wallpaper.set.todo.link.old" = "「桌面與螢幕保護程式」";
 
 /* (No Comment) */
-"wallpaper.set.todo.old" = "1. 開啟 macOS 偏好設定「桌面與螢幕保護程式」。\n2. 選擇任一「動態桌面」背景圖片，設定其種類為「動態」。\n3. 按一下「繼續」。";
+"wallpaper.set.todo.old" = "1. 開啟 macOS 偏好設定「桌面與螢幕保護程式」。\n2. 選擇任一「動態桌面」背景圖片，將其種類設定為「動態」。\n3. 按一下「繼續」。";
+
+/* (No Comment) */
+"wallpaper.toolbar.appearance.title" = "外觀背景圖片";
+
+/* (No Comment) */
+"wallpaper.toolbar.solar.title" = "太陽背景圖片";
+
+/* (No Comment) */
+"wallpaper.toolbar.time.title" = "時間背景圖片";
 
 /* (No Comment) */
 "welcome.choose.type" = "選擇種類";
 
 /* (No Comment) */
-"welcome.choose.type.description" = "為你的背景圖片選擇一個適合的種類";
+"welcome.choose.type.description" = "為你的背景圖片選擇一個最符合的種類";
 
 /* (No Comment) */
 "welcome.github" = "Github";
@@ -368,19 +467,19 @@
 "welcome.types.appearance" = "外觀";
 
 /* (No Comment) */
-"welcome.types.appearance.description" = "依據系統外觀製作背景圖片。你需要兩個影像：一個用作淺色模式，一個用作深色模式。";
+"welcome.types.appearance.description" = "根據系統外觀製作背景圖片。你需要兩張影像：一個用作淺色模式，一個用作深色模式。";
 
 /* (No Comment) */
 "welcome.types.solar" = "太陽";
 
 /* (No Comment) */
-"welcome.types.solar.description" = "依據太陽計算製作背景圖片。桌面背景圖片會全日依據太陽在天空中的位置而改變。";
+"welcome.types.solar.description" = "根據太陽計算製作背景圖片。桌面背景圖片會全日根據太陽在天空中的位置而改變。";
 
 /* (No Comment) */
 "welcome.types.time" = "時間";
 
 /* (No Comment) */
-"welcome.types.time.description" = "依據時間計算製作背景圖片。桌面背景圖片會全日依據你選擇的時間而改變。";
+"welcome.types.time.description" = "根據時間計算製作背景圖片。桌面背景圖片會全日根據你選擇的時間而改變。";
 
 /* (No Comment) */
 "welcome.version" = "版本 %@";
@@ -388,40 +487,3 @@
 /* (No Comment) */
 "welcome.welcome" = "歡迎使用 %@";
 
-"toolbar.new.label" = "新增";
-"toolbar.new.palette" = "新增";
-"toolbar.new.tooltip" = "新增背景圖片";
-
-"toolbar.help.label" = "輔助說明";
-"toolbar.help.palette" = "輔助說明";
-"toolbar.help.tooltip" = "輔助說明";
-
-"toolbar.calculator.label" = "計算機";
-"toolbar.calculator.palette" = "太陽計算機";
-"toolbar.calculator.tooltip" = "太陽計算機";
-
-"wallpaper.toolbar.solar.title" = "太陽背景圖片";
-"wallpaper.toolbar.time.title" = "時間背景圖片";
-"wallpaper.toolbar.appearance.title" = "外觀背景圖片";
-
-"support.title" = "支持 Equinox";
-"support.localProduct.title" = "贊助";
-"support.shared.title.thankYou" = "感謝你的支持！";
-"support.shared.description.openSource" = "Equinox 是我維護超過 5 年的開源專案。";
-"support.shared.close" = "關閉";
-"support.supported.description.first" = "你已經支持過 Equinox，謝謝你！";
-"support.supported.description.third" = "如果你想再次支持這個專案，隨時都可以再贊助一次。";
-"support.unsupported.title" = "喜歡 Equinox 嗎？";
-"support.unsupported.description.second" = "如果你喜歡使用它，可以用一筆小額贊助支持它的未來發展。";
-"support.unsupported.description.third" = "贊助不會解鎖任何功能，只是用來支持開發。";
-"support.noProducts.title" = "發生錯誤";
-"support.noProducts.description.first" = "無法載入贊助選項。";
-"support.noProducts.description.second" = "請檢查網絡連線，或稍後再試。";
-"support.noProducts.description.third" = "感謝你支持 Equinox。";
-"support.purchaseSuccess.description.first" = "你的支持非常重要。Equinox 是我維護超過 5 年的開源專案。";
-"support.purchaseSuccess.description.second" = "這類贊助有助讓應用程式持續發展：修正錯誤、改進體驗，並推出新更新。";
-"support.purchaseSuccess.description.third" = "這次購買不會解鎖任何功能，只是用來支持開發。";
-"support.purchaseFailure.title" = "不用擔心";
-"support.purchaseFailure.description.first" = "購買已取消。";
-"support.purchaseFailure.description.second" = "如果你願意，隨時都可以支持 Equinox。";
-"support.purchaseFailure.description.third" = "感謝你使用這個應用程式！";
